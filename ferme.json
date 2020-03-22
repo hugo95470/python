@@ -1,0 +1,34 @@
+{
+  "farm_list":
+    [
+      {
+        "Farm": "Ferme Nicoise",
+        "animals": [
+          {
+            "type": "coq",
+            "sex": "female",
+            "birth": "20 Mars 2020",
+            "retraite": "3"
+          },
+          {
+            "type": "vache",
+            "sex": "female",
+            "birth": "20 Mars 2020",
+            "retraite": "3"
+          },
+          {
+            "type": "koala",
+            "sex": "female",
+            "birth": "20 Mars 2020",
+            "retraite": "7"
+          },
+          {
+            "type": "coq",
+            "sex": "male",
+            "birth": "20 Mars 2020",
+            "retraite": "3"
+          }
+        ]
+      }
+  ]
+}
